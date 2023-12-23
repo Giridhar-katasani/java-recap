@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/S03L07 - Primitive Data Types (boolean and char)" element2="/javaStarted" element3="/S03L02 - Hello world" element4="/S03L08 - String basics" element5="/S03L06 - Primitive Data Types (floating point datatype)" element6="/S03L04 - Understanding variables" element7="/S03L09 - Type casting" element8="/S03L05 - Primitive Data Types" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1697575163509"/>
+</session>
