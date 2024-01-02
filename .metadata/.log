@@ -5175,3 +5175,35 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:28:39.160
+!MESSAGE Classpath changed for project: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:28:39.162
+!MESSAGE Boot project ADDED: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:28:40.717
+!MESSAGE Classpath changed for project: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:28:40.756
+!MESSAGE Classpath changed for project: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:29:02.791
+!MESSAGE Classpath changed for project: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:29:02.793
+!MESSAGE Boot project REMOVED: spring-core-demo-maven-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:29:02.794
+!MESSAGE Classpath changed for project: spring-rest-demo-maven
+
+!ENTRY org.eclipse.egit.core 4 0 2024-01-02 12:29:02.993
+!MESSAGE Connecting Git team provider failed. See log for details.
+!SUBENTRY 1 org.eclipse.egit.core 4 0 2024-01-02 12:29:02.993
+!MESSAGE Error connecting project spring-core-demo-maven-1, no Git repositories found
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:29:04.872
+!MESSAGE Classpath changed for project: spring-rest-demo-maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-02 12:29:04.873
+!MESSAGE Boot project ADDED: spring-rest-demo-maven
